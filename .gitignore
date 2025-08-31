@@ -6,6 +6,7 @@
 
 # DKIM keys
 keys/
+!keys/.gitkeep
 *.pem
 
 # Logs
