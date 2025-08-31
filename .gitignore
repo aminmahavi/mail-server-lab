@@ -1,0 +1,19 @@
+# System files
+*.swp
+*.swo
+*.tmp
+*~
+
+# DKIM keys
+keys/
+*.pem
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
